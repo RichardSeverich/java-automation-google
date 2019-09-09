@@ -5,5 +5,4 @@
 /logs/
 /target/
 /test-output/
-/gradle/
 *.iml
